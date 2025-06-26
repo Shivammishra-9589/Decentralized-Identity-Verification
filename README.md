@@ -25,4 +25,3 @@ To build a transparent, censorship-resistant, and secure identity system that em
 ## Contract Details
 _This section is for you to fill manually._
 ![image](https://github.com/user-attachments/assets/705756b0-3e30-4d3b-ac78-0f134e500cf5)
-![image](https://github.com/user-attachments/assets/705756b0-3e30-4d3b-ac78-0f134e500cf5)
